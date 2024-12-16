@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is Paras and I'm a Security Researcher from India.</h2>
-<img scrc ="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQzMzYzMDUsIm5iZiI6MTczNDMzNjAwNSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE2VDA4MDAwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFiM2Y2ZThhYWMxNzZkN2QzYzc2NTRlNjU0NzZiMGI5NTIzYzMxNGJiZDkxNDAwNWYwOWE5MzhjZWY5ZmJlMTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sR9-CtPOPLilQfNUiAmtryQW37jS4IIZiIGSKZIa2dY" />
+![loop](https://github.com/user-attachments/assets/f11179ea-1346-4c42-946c-a41ae274acb2)
+
 ###
 
 <div align="center">
