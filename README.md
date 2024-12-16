@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is Paras and I'm a Security Researcher from India.</h2>
-![loop](https://github.com/user-attachments/assets/f11179ea-1346-4c42-946c-a41ae274acb2)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f11179ea-1346-4c42-946c-a41ae274acb2" />
 
 ###
 
