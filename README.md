@@ -62,4 +62,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazer0p&radius=16&theme=gotham&area=true&order=5&custom_title=Activity&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
+###![daftpunktocat-thomas](https://github.com/user-attachments/assets/1d675267-8093-4201-b65e-de297549ec4c)
+
+![daftpunktocat-guy](https://github.com/user-attachments/assets/4c8a8611-65fe-4ec1-8687-93a2e3706afc)
+
+![daftpunktocat-thomas](https://github.com/user-attachments/assets/34b6dffb-23e7-46d4-81ab-c928d012182f)
 ###
