@@ -1,4 +1,7 @@
 <h2 align="left">Hi 👋! My name is Paras and I'm a Security Researcher from India.</h2>
+![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/user-attachments/assets/6349c2b3-cc01-48c3-8880-df75091da86a)
+
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f11179ea-1346-4c42-946c-a41ae274acb2" />
 
