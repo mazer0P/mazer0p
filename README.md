@@ -13,8 +13,6 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<img aling="left" height="150" src="https://github.com/user-attachments/assets/8aa2aedb-2a34-4528-be97-a51fbae0433b" />
-
 
 ###
 
