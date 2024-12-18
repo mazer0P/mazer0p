@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Paras and I'm a Security Researcher from India.</h2>
- <img align="centre" width="10rem" src="https://github.com/user-attachments/assets/6349c2b3-cc01-48c3-8880-df75091da86a" />
+ <img align="centre" width="200rem" src="https://github.com/user-attachments/assets/6349c2b3-cc01-48c3-8880-df75091da86a" />
 
 
 <div align="center">
