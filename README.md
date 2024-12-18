@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Paras and I'm a Security Researcher from India.</h2>
 <div align="center">
-<!--   <img src="https://github.com/user-attachments/assets/f11179ea-1346-4c42-946c-a41ae274acb2" /> -->
+  <img src="https://github.com/user-attachments/assets/f11179ea-1346-4c42-946c-a41ae274acb2" />
 
 ###
 
@@ -63,10 +63,4 @@
 </div>
 
 ###
-<img align="right" height="150" src=https://github.com/user-attachments/assets/1d675267-8093-4201-b65e-de297549ec4c />
 
-<img align="centre" height="150" src=https://github.com/user-attachments/assets/4c8a8611-65fe-4ec1-8687-93a2e3706afc />
-
-<img align="left" height="150" src=https://github.com/user-attachments/assets/34b6dffb-23e7-46d4-81ab-c928d012182f />
-
-###
